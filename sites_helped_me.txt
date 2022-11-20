@@ -1,0 +1,4 @@
+https://pandas.pydata.org/
+https://realpython.com/
+https://pynative.com/
+
